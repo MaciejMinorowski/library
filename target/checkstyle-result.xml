@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\Masiek\Desktop\Kurs SDA po datach\2023-01-14 Projekt\Library\src\main\java\org\example\library\Main.java">
+<error line="6" column="16" severity="error" message="Name &apos;TwojaMama&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+</checkstyle>
